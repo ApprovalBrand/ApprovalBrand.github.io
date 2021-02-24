@@ -1,0 +1,97 @@
+
+.navbar {
+    width: 100%;
+    height: fit-content;
+    background-image: linear-gradient(to right, #082e7f, #343bff);
+  }
+
+.now-page {
+    color: var(--text);
+    text-decoration: underline dotted #F8F8F8;
+}
+
+.navbar-brand {
+    font-family: var(--title);
+    font-size: 30px !important;
+    margin-right: 30px !important;
+}
+
+.navbar-nav {
+    background-color: var(--primary-alt);
+
+}
+
+.now-page {
+    color: var(--text);
+    text-decoration: underline dotted #F8F8F8;
+}
+
+.navbar-brand {
+    font-family: 'Poppins', sans-serif;
+    font-size: 22px !important;
+    
+}
+
+.bandeau{
+    width:100%;
+    font-size:16px;
+    color:white;
+   height:50px;
+   background-color:#343bff;
+}
+.bandeau2{
+    width:100%;
+    font-size:16px;
+    color: #757580;
+   background-color:white;
+}
+
+.header-examen{
+    padding-left:20px;
+    padding-right:20px;
+    width:100%;
+    color:white;
+    background: linear-gradient(
+to bottom
+, #082E98,  #2A39E2);
+}
+}
+
+.piedpage{
+    background: black;
+}
+
+section{
+    padding-top:30px;
+    padding-bottom:30px;
+    background-color:#242526;
+    color:#8d8d99;
+    font-size:14px;
+}
+h1{
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size:22px;
+    color:white;
+}
+
+h2{
+    color:white;
+}
+h3{
+    color:white;
+    font-size:18px;
+}
+.card{
+    background-color:transparent;
+}
+.card-footer{
+    background-color:#18181A;
+}
+.piedpage{
+    background-color: #18181A;
+    color:white;
+    padding-top:15px;
+    padding-bottom:15px;
+    
+}
